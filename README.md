@@ -21,3 +21,10 @@ The aim of this project is to provide a comprehensive, open-source dataset that 
 - To provide a diverse set of synthetic video data featuring various exercises.
 - To facilitate research in remote fitness and physical therapy using machine learning.
 - To enable the development of pose estimation models for fitness applications.
+
+## Dataset Features
+
+1. **Synthetic Videos**: The dataset includes videos of a synthetic avatar performing various exercises such as push-ups, squats, and weightlifting.
+2. **Keypoint Annotations**: Each frame in the video is annotated with 2D keypoints representing human joints (e.g., nose, eyes, shoulders, elbows).
+3. **High-Quality Graphics**: The dataset features high-quality synthetic environments that simulate real-world conditions.
+4. **Multiple Exercises**: The dataset includes a variety of exercises to ensure diversity in training data.
