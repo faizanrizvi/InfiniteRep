@@ -11,3 +11,13 @@ An open-source synthetic dataset for remote fitness/physical therapy (PT). This 
 5. [Methodology](#methodology)
 6. [Results and Achievements](#results-and-achievements)
 7. [Conclusion and Future Work](#conclusion-and-future-work)
+
+8. ## Project Aim and Objectives
+
+### Project Aim:
+The aim of this project is to provide a comprehensive, open-source dataset that can be used for developing machine learning models focused on human pose estimation, exercise tracking, and remote physical therapy.
+
+### Objectives:
+- To provide a diverse set of synthetic video data featuring various exercises.
+- To facilitate research in remote fitness and physical therapy using machine learning.
+- To enable the development of pose estimation models for fitness applications.
